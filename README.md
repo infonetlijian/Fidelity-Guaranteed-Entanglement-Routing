@@ -1,5 +1,6 @@
 # Fidelity-Guaranteed Entanglement Routing in Quantum Networks
 - Simulation code for routing algorithms: Q-PATH and Q-LEAP 
+- Please refer to the publication "Li J, Wang M, Xue K, et al. Fidelity-guaranteed entanglement routing in quantum networks[J]. IEEE Transactions on Communications, 2022, 70(10): 6748-6763."
 
 # Usage Note:
 

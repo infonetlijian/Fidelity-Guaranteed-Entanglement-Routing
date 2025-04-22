@@ -1,4 +1,5 @@
-# [2025.4]Author Note: We will provide the code of this work on [SimQN simulator](https://github.com/QNLab-USTC/SimQN) recently from [QNLab](https://qnlab-ustc.com/), please pay attention and [contact me](https://infonetlijian.github.io/homepage/) if you are interested.
+# [2025.4]Author Note: 
+- We will provide the code of this work on [SimQN simulator](https://github.com/QNLab-USTC/SimQN) recently from [QNLab](https://qnlab-ustc.com/), please pay attention or [contact me](https://infonetlijian.github.io/homepage/) if you are interested.
 
 # Fidelity-Guaranteed Entanglement Routing in Quantum Networks
 - Simulation code for routing algorithms: Q-PATH and Q-LEAP 
